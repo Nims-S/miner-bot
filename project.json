@@ -1,0 +1,25 @@
+{
+  "overview": "A professional, real-time crypto trading dashboard and control panel for a live trading bot. Monitors BTC, ETH, and SOL positions with live Binance prices, global kill switches, PnL charts, and trade history — styled like UltraTrader with a dark glassmorphism aesthetic.",
+  "features": [
+    "Real-time asset cards with live Binance prices for BTC, ETH, SOL",
+    "Global and per-asset kill switch controls with optimistic UI",
+    "Position visualization bar (SL → Entry → TP1 → TP2) with animated price marker",
+    "Stats overview: Realized PNL, Win Rate, Balance, Live PNL",
+    "Cumulative PnL line chart and daily PnL bar chart",
+    "Recently closed trades table with pagination and sorting",
+    "Per-asset deep view with micro charts and performance stats",
+    "Auto-refresh every 3 seconds with smooth transitions",
+    "Dark glassmorphism design with electric blue and neon green accents",
+    "Responsive layout: sidebar nav on desktop, bottom nav on mobile"
+  ],
+  "category": "finance",
+  "tags": [
+    "crypto",
+    "trading",
+    "dashboard",
+    "real-time",
+    "charts",
+    "mobile-first"
+  ],
+  "last_updated": "2026-04-17T23:17:26.296Z"
+}
